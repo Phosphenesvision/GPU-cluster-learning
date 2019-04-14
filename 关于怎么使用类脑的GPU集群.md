@@ -6,7 +6,7 @@ so easy！
 
 ## 1.首先申请帐号
 
-脑GPU集群的网址是<https://www.bitahub.com/>
+类脑GPU集群的网址是<https://www.bitahub.com/>
 
 首先需要注册一个彼塔社区的帐号，这个时候邮箱要用我们科大的邮箱
 
